@@ -37,7 +37,7 @@ div div{
   color: black;
   padding: 6px;
   width: 100px;
-  margin-right: -3vmin;
+  margin-right: -1vmin;
   text-align: center;
 }
 
@@ -46,7 +46,7 @@ div div{
   color: white;
   padding: 6px;
   width: 100px;
-  margin-right: -3vmin;
+  margin-right: -1vmin;
   text-align: center;
 
 
@@ -58,7 +58,7 @@ div div{
   color: black;
   padding: 6px;
   width: 90px;
-  margin-right: -3vmin;
+  margin-right: -1vmin;
   text-align: center;
 
 }
