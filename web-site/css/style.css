@@ -1,0 +1,57 @@
+
+.navbar-header{
+    /* background-color: chocolate; */
+    font-size: larger;
+    font-weight: bolder;
+    border-radius: 0;
+    background-color: goldenrod;
+    color: black;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: teal;
+}
+.navbar-toggle icon-bar {
+    background-color: black;
+}
+
+.navbar-brand a{
+    color: black;
+    /* font-size: larger; */
+    padding: 15px;
+}
+
+.col-md-12 div{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.col-xs-12 div{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+#collapsable-nav {
+    background-color: goldenrod;
+}
+
+#content {
+    height: 1000px;
+    background-color: wheat;
+    padding: 15px;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
+
+li {
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
